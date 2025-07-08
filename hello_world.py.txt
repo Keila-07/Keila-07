@@ -1,0 +1,13 @@
+hello_world.py
+
+name=input("Enter your name")
+
+print("Lebo")
+
+
+age=int(input("Enter your age"))
+
+print("16 years old")
+
+
+Print("Hello ,World!")
